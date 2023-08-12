@@ -39,3 +39,15 @@ Compile python file into 1 executable
 Copy the executable file onto the existing directory (already reacheable from Windows Path)
 
 `copy dist\capture-window-and-save.exe .`
+
+### Execution 
+
+Just call 
+
+`capture-window-and-save`
+
+or 
+
+`capture-window-and-save.exe`
+
+from anywhere (if you set it up from Windows Path). Snapshots will be stored in the original directory
