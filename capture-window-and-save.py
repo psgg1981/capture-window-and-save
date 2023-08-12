@@ -21,4 +21,4 @@ keyboard.send_keys(dir+'\\'+filename, pause=0)    # save file
 keyboard.send_keys('{ENTER}')
 keyboard.send_keys('%{F4}')                 # exit program
 #keyboard.send_keys('%{TAB}')                # get back to previous window
-print(filename + ' saved.')
+print(filename + ' saved.') 
